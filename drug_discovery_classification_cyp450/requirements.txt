@@ -1,0 +1,7 @@
+streamlit
+rdkit-pypi
+tensorflow
+pandas
+matplotlib
+Pillow
+pydot
